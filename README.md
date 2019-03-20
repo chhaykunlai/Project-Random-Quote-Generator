@@ -1,2 +1,2 @@
-# jumpstart-chhaykun-lai-training
-Backend Javascript Development Jumpstart Path - Chhaykun Lai
+# Project-Random-Quote-Generator
+Unit 1 - Project: Random Quote Generator - Chhaykun Lai
